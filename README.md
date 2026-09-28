@@ -39,7 +39,8 @@ I handle the full website lifecycle, from development and customization to ongoi
 - (https://ieceyecare.com/)
 - (https://merdekagoldresources.com/) 
 - (https://merdekacoppergold.com/) 
-- (https://kebebasanberkesenian.uwazi.io/) 
+- (https://kebebasanberkesenian.uwazi.io/)
+- (https://bebeja.com/) 
 
 ---
 
