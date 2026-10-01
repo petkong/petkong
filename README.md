@@ -1,52 +1,102 @@
-# Hello, I'm Andri 👋
+# 👋 Hello, I'm Andri
 
-💥 **WordPress Expert | Fix & Optimize | Maintenance, Cloudflare & VPS**  
-------------------------------------------------------------------------
+### WordPress Developer | Website Performance | Maintenance | Cloudflare & VPS
 
-💭 **Is your WordPress website slow, experiencing technical issues, or in need of reliable long-term maintenance?**
+I build, fix, optimize, secure, and maintain WordPress websites for businesses that need reliable long-term support.
 
-I’m a WordPress Specialist with **15+ years of experience** building, fixing, optimizing, and maintaining fast, secure, and reliable business websites.
+With **15+ years of experience**, I work across the full website lifecycle — from WordPress development and customization to performance optimization, troubleshooting, infrastructure, security, and ongoing maintenance.
 
-I help businesses keep their websites stable and performing well over the long term — not just build a website and move on.
-
-I handle the full website lifecycle, from development and customization to ongoing maintenance, performance optimization, troubleshooting, and infrastructure stability. My focus goes beyond design: I prioritize speed, security, stability, backups, hosting, DNS, and long-term maintainability.
+My focus is not only on building websites, but also on keeping them **fast, secure, stable, and ready to grow.**
 
 ---
 
-💼 **Core Expertise:**
+## 🛠 Core Services
 
-- **Custom WordPress Development & Builds:** Tailored site architecture and Elementor customization.
-- **Performance & Speed Optimization:** Core Web Vitals optimization, caching, and server-side tuning.
-- **Cloudflare & Infrastructure:** Expert setup for DNS, SSL, security rules, and caching layers.
-- **Troubleshooting & Fixes:** Resolving downtime, DNS issues, malware, plugin conflicts, and PHP/server errors.
-- **Website Maintenance & Backups:** Ongoing health checks, staging environment management, and seamless migrations.
-- **Custom Enhancements:** Frontend adjustments using custom CSS and JavaScript.
-- **Hosting & VPS Management:** Server environment configuration, maintenance, and optimization.
-
----
-
-🛠️ **Tech Stack & Tools:**
-
-- **CMS & Page Builders:** WordPress, Elementor, Gutenberg
-- **Frontend Technologies:** HTML5, CSS3, JavaScript, PHP
-- **Server & Infrastructure:** Cloudflare, VPS Management, Linux, MySQL
-- **Performance & Security:** Core Web Vitals, Speed Optimization, Malware Cleanup
+- 🌐 **WordPress Development & Customization**
+- ⚡ **Website Performance & Core Web Vitals**
+- ☁️ **Cloudflare, DNS & VPS**
+- 🎨 **Elementor / Elementor Pro / WPBakery**
+- 🔍 **Technical SEO & Structured Data**
+- 🔐 **Website Security & Malware Cleanup**
+- 🛠️ **Website Maintenance & Optimization**
+- 🔧 **Troubleshooting & Technical Fixes**
+- 💾 **Backups, Staging & Website Migration**
+- 🤝 **Long-Term Technical Support**
 
 ---
 
-✨ **Featured Projects / Portfolio:**
+## 📌 Featured Projects
 
-- (https://ieceyecare.com/)
-- (https://merdekagoldresources.com/) 
-- (https://merdekacoppergold.com/) 
-- (https://kebebasanberkesenian.uwazi.io/)
-- (https://bebeja.com/) 
+### 01 — IEC Eye Care
+**Medical Clinic Website**
+
+`WordPress` `Elementor` `Cloudflare` `WP Rocket` `SEO`
+
+Website development, performance optimization, technical SEO, Cloudflare configuration, and ongoing maintenance for a medical clinic website.
+
+Key areas include:
+
+- WordPress & Elementor development
+- Website performance optimization
+- Cloudflare & DNS configuration
+- WP Rocket optimization
+- Technical SEO
+- Custom medical structured data
+- Ongoing website maintenance
+
+**Website:** https://ieceyecare.com/
 
 ---
 
-📫 **Let's Connect & Collaborate!**
+### 02 — Merdeka Gold Resource
+**Corporate Website**
 
-I’m comfortable taking over existing WordPress websites, working with hosting and DNS environments, troubleshooting complex technical problems, and communicating clearly with non-technical clients.
+`WordPress` `WPML` `WPBakery` `Security` `Performance`
 
-- 💬 Open for freelance opportunities & long-term maintenance contracts.
-- 📩 Send me a message or contact me via my portfolio/Upwork profile to discuss your project!
+Corporate WordPress website development and ongoing technical maintenance.
+
+Key areas include:
+
+- WordPress development
+- WPBakery customization
+- Multilingual implementation
+- Performance optimization
+- Website security
+- Technical maintenance
+
+**Website:** https://merdekagoldresources.com/
+
+---
+
+### 03 — Merdeka Copper Gold
+**Corporate Website**
+
+`WordPress` `Corporate Website` `Performance` `Maintenance`
+
+Corporate website development and technical support, with a focus on WordPress stability, performance, security, and long-term maintainability.
+
+**Website:** https://merdekacoppergold.com/
+
+---
+
+### 04 — Kebebasan Berkesenian
+**Digital Archive & Content Platform**
+
+`Web Platform` `Content` `Technical Support`
+
+Website and technical support experience involving content-driven digital platforms and structured information.
+
+**Website:** https://kebebasanberkesenian.uwazi.io/
+
+---
+
+### 05 — Bebeja
+**Agribusiness & Agriculture Portal**
+
+`WordPress` `Security` `SEO` `Maintenance`
+
+A long-running WordPress portal focused on agriculture and agribusiness.
+
+Work includes website maintenance, security, performance optimization, troubleshooting, and technical improvements.
+
+**Website:** https://bebeja.com/
